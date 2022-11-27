@@ -39,5 +39,5 @@ I'm Nkiruka, a frontend developer with a background in management.
 <p>
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=nkirukka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=nkirukka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotacca&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkirukka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
   </p>
